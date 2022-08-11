@@ -23,7 +23,7 @@
   "activationCommands": {
     "atom-workspace": "slot-online-pg-soft-gacor:toggle"
   },
-  "repository": "https://github.com/ranahlexusmpo/mpo-slot-pg-soft.git",
+  "repository": "https://github.com/ranahlexusmpo/pg-soft-mpo.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
