@@ -1,0 +1,31 @@
+{
+  "name": "mpo-slot-online-pg-soft-gacor",
+  "main": "pg-soft-jp",
+  "theme": "ui",
+  "version": "1.35.0",
+  "description": "LEXUSMPO || Situs Gacor Mpo Slot Online PG Soft Gampang JP",
+  "keywords": [
+    "mpo slot PG Soft",
+    "mpo slot online PG Soft ",
+    "mpo PG Soft",
+	  "mpo PG Soft gacor",
+	    "mpo PG Soft gampang jp",
+		  "mpo PG Soft situs gacor jp",
+		    "mpo PG Soft gacor gampang jp",
+    "slot online PG Soft",
+    "mpo online slot PG Soft",
+    "mpo slot PG Soft terlengkap",
+    "PG Soft",
+    "judi mpo PG Soft",
+    "judi mpo slot online PG Soft",
+    "rtp PG Soft terlengkap"
+  ],
+  "activationCommands": {
+    "atom-workspace": "slot-online-pg-soft-gacor:toggle"
+  },
+  "repository": "https://github.com/ranahlexusmpo/mpo-slot-pg-soft.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
